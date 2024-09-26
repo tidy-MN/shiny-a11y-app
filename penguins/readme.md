@@ -4,7 +4,7 @@ Designed by [Abigail Stamm](https://github.com/ajstamm), Fall 2024
 
 This app illustrates several accessibility features available in Shiny dashboards. It is not entirely cohesive as an app since each tab is designed to illustrate specific features.
 
-## WCAG guidelines illustrate in the app
+## WCAG guidelines illustrated in the app
 
 For specific details on each item, see the [WCAG guidelines at W3.org](https://www.w3.org/WAI/WCAG22/quickref/).
 
